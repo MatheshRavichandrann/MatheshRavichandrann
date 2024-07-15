@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @MatheshRavichandrann
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Spring boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m mathesh
+- 👀 I’m interested in writing complex code.
+- 🌱 I’m currently learnin Spring boot
+- 📫 How to reach me mathesh1907@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i read documentation.
 
 <!---
 MatheshRavichandrann/MatheshRavichandrann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
