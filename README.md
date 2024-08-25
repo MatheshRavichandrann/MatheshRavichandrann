@@ -13,6 +13,8 @@ I'm a passionate Java developer exploring the world of backend web development.
 <p align="center">
   <!-- Java -->
   <img src="https://media.giphy.com/media/xT5LMT0KnTmrML9tnu/giphy.gif" alt="Java" width="80" height="80">
+  <!-- Spring -->
+  <img src="https://media.giphy.com/media/3o6Zt6Tghz0p6spg5a/giphy.gif" alt="Spring" width="80" height="80">
   <!-- Spring Boot -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Spring Boot" width="80" height="80">
   <!-- MySQL -->
