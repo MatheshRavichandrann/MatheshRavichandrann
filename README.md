@@ -12,7 +12,7 @@ I'm a passionate Java developer exploring the world of backend web development.
 
 <p align="center">
   <!-- Java -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Java" width="80" height="80">
+  <img src="https://media.giphy.com/media/xT5LMT0KnTmrML9tnu/giphy.gif" alt="Java" width="80" height="80">
   <!-- Spring Boot -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Spring Boot" width="80" height="80">
   <!-- MySQL -->
@@ -20,7 +20,7 @@ I'm a passionate Java developer exploring the world of backend web development.
   <!-- Kotlin -->
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Kotlin" width="80" height="80">
   <!-- Android -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Android" width="80" height="80">
+  <img src="https://media.giphy.com/media/3o6Zt8z3I1u6i2D3ds/giphy.gif" alt="Android" width="80" height="80">
 </p>
 
 ---
