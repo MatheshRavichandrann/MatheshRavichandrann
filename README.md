@@ -1,10 +1,9 @@
 ### Hi there, I'm Mathesh Ravichandran 👋
-I'm a passionate Java developer exploring the worlds of backend web development and mobile app development.
+I'm a passionate Java developer exploring the world of backend web development.
 
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)** and advancing my skills in **Java**.
 - 👨‍💻 Working on building backend systems using **Java**, **Spring**, and **Spring Boot**.
-- 📱 Interested in developing mobile apps with **Java** and **Kotlin** for Android.
-- 🔍 Actively seeking opportunities in software development, particularly in backend or mobile app roles.
+- 🔍 Actively seeking opportunities in software development, particularly in backend roles.
 - 🎯 Always up for a challenge in competitive coding and problem-solving.
 
 ---
@@ -26,29 +25,16 @@ I'm a passionate Java developer exploring the worlds of backend web development 
 
 ---
 
-### 📊 Skill Proficiency
-
-| Skill             | Proficiency       |
-|-------------------|-------------------|
-| **Java**          | ![Java](https://img.shields.io/badge/Expert-90%25-brightgreen) |
-| **Spring Boot**   | ![Spring Boot](https://img.shields.io/badge/Proficient-80%25-yellowgreen) |
-| **Kotlin**        | ![Kotlin](https://img.shields.io/badge/Intermediate-60%25-yellow) |
-| **Android**       | ![Android](https://img.shields.io/badge/Intermediate-70%25-lightgreen) |
-| **MySQL**         | ![MySQL](https://img.shields.io/badge/Advanced-75%25-green) |
-
----
-
 ### 📚 What I'm Learning
 
 - 🚀 Currently improving my **Data Structures & Algorithms** knowledge.
 - 🔧 Diving deeper into **Spring Boot** to master backend development.
-- 📱 Experimenting with **Kotlin** for Android development.
 
 ---
 
 ### 🚀 Current Projects
 - **Building a RESTful API** with **Spring Boot**
-- **Exploring Android App Development** with **Java** and **Kotlin**
+- **Exploring new ways to optimize backend systems**
 
 ---
 
