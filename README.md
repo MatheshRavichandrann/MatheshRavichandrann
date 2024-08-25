@@ -30,11 +30,11 @@ I'm a passionate Java developer exploring the worlds of backend web development 
 
 | Skill             | Proficiency       |
 |-------------------|-------------------|
-| **Java**          | ![Java](https://progress-bar.dev/90/?title=Expert&width=200) |
-| **Spring Boot**   | ![Spring Boot](https://progress-bar.dev/80/?title=Proficient&width=200) |
-| **Kotlin**        | ![Kotlin](https://progress-bar.dev/60/?title=Intermediate&width=200) |
-| **Android**       | ![Android](https://progress-bar.dev/70/?title=Intermediate&width=200) |
-| **MySQL**         | ![MySQL](https://progress-bar.dev/75/?title=Advanced&width=200) |
+| **Java**          | ![Java](https://img.shields.io/badge/Expert-90%25-brightgreen) |
+| **Spring Boot**   | ![Spring Boot](https://img.shields.io/badge/Proficient-80%25-yellowgreen) |
+| **Kotlin**        | ![Kotlin](https://img.shields.io/badge/Intermediate-60%25-yellow) |
+| **Android**       | ![Android](https://img.shields.io/badge/Intermediate-70%25-lightgreen) |
+| **MySQL**         | ![MySQL](https://img.shields.io/badge/Advanced-75%25-green) |
 
 ---
 
@@ -43,16 +43,6 @@ I'm a passionate Java developer exploring the worlds of backend web development 
 - 🚀 Currently improving my **Data Structures & Algorithms** knowledge.
 - 🔧 Diving deeper into **Spring Boot** to master backend development.
 - 📱 Experimenting with **Kotlin** for Android development.
-
----
-
-### 🔥 Stats & Projects
-
-![Mathesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheshRavichandran&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheshRavichandran&layout=compact&theme=radical)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheshRavichandran&repo=YourRepoName&theme=radical)](https://github.com/MatheshRavichandran/YourRepoName)
 
 ---
 
