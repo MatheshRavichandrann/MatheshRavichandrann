@@ -12,15 +12,15 @@ I'm a passionate Java developer exploring the world of backend web development.
 
 <p align="center">
   <!-- Java -->
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Java" width="60" height="60">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Java" width="80" height="80">
   <!-- Spring Boot -->
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Spring Boot" width="60" height="60">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Spring Boot" width="80" height="80">
   <!-- MySQL -->
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="MySQL" width="60" height="60">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="MySQL" width="80" height="80">
   <!-- Kotlin -->
-  <img src="https://media.giphy.com/media/ptqAPLnBcxRfk8GQQ7/giphy.gif" alt="Kotlin" width="60" height="60">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Kotlin" width="80" height="80">
   <!-- Android -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Android" width="60" height="60">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Android" width="80" height="80">
 </p>
 
 ---
