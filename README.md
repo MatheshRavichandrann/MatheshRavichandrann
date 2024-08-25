@@ -12,17 +12,17 @@ I'm a passionate Java developer exploring the world of backend web development.
 
 <p align="center">
   <!-- Java -->
-  <img src="https://media.giphy.com/media/xT5LMT0KnTmrML9tnu/giphy.gif" alt="Java" width="80" height="80">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <!-- Spring -->
-  <img src="https://media.giphy.com/media/3o6Zt6Tghz0p6spg5a/giphy.gif" alt="Spring" width="80" height="80">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <!-- Spring Boot -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Spring Boot" width="80" height="80">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <!-- MySQL -->
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="MySQL" width="80" height="80">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <!-- Kotlin -->
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Kotlin" width="80" height="80">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <!-- Android -->
-  <img src="https://media.giphy.com/media/3o6Zt8z3I1u6i2D3ds/giphy.gif" alt="Android" width="80" height="80">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
 ---
