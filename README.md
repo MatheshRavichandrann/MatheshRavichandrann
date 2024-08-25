@@ -10,20 +10,39 @@ I'm a passionate Java developer exploring the worlds of backend web development 
 ---
 
 ### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<p align="center">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <!-- Spring Boot -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <!-- Kotlin -->
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <!-- Android -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</p>
 
 ---
 
-### 🔧 Tools I Use
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 📊 Skill Proficiency
+
+| Skill             | Proficiency       |
+|-------------------|-------------------|
+| **Java**          | ![Java](https://progress-bar.dev/90/?title=Expert&width=200) |
+| **Spring Boot**   | ![Spring Boot](https://progress-bar.dev/80/?title=Proficient&width=200) |
+| **Kotlin**        | ![Kotlin](https://progress-bar.dev/60/?title=Intermediate&width=200) |
+| **Android**       | ![Android](https://progress-bar.dev/70/?title=Intermediate&width=200) |
+| **MySQL**         | ![MySQL](https://progress-bar.dev/75/?title=Advanced&width=200) |
+
+---
+
+### 📚 What I'm Learning
+
+- 🚀 Currently improving my **Data Structures & Algorithms** knowledge.
+- 🔧 Diving deeper into **Spring Boot** to master backend development.
+- 📱 Experimenting with **Kotlin** for Android development.
 
 ---
 
